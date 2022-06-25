@@ -1,0 +1,5 @@
+../Core/Src/maincode.c:32:6:lcd_start	16	static
+../Core/Src/maincode.c:38:6:lcd_print	8	static
+../Core/Src/maincode.c:44:6:HAL_TIM_PeriodElapsedCallback	24	static
+../Core/Src/maincode.c:59:6:HAL_SPI_TxRxCpltCallback	24	static
+../Core/Src/maincode.c:88:6:mainloop	8	static
